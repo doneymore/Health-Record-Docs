@@ -1,0 +1,90 @@
+{
+  "config": {
+    "title": "Heath Record Documentaion",
+    "description": "My awesome app using docz",
+    "menu": [],
+    "version": "1.0.0",
+    "repository": null,
+    "native": false,
+    "themeConfig": {},
+    "separator": "-"
+  },
+  "entries": [
+    {
+      "key": "docs/index.mdx",
+      "value": {
+        "name": "components",
+        "id": "73498ad0e1e62a714b08085d318f9de1",
+        "filepath": "docs/index.mdx",
+        "fullpath": "C:\\Users\\cazunna\\Desktop\\meand you\\docs\\index.mdx",
+        "link": "",
+        "hidden": false,
+        "slug": "docs-index",
+        "route": "/docs-index",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "intoduction",
+            "depth": 1,
+            "value": "Intoduction"
+          }
+        ]
+      }
+    },
+    {
+      "key": "src/components/introduction.mdx",
+      "value": {
+        "title": "Home",
+        "id": "5c0a4cf72c482cb64934d086f9d786db",
+        "filepath": "src/components/introduction.mdx",
+        "fullpath": "C:\\Users\\cazunna\\Desktop\\meand you\\src\\components\\introduction.mdx",
+        "link": "",
+        "hidden": false,
+        "slug": "src-components-introduction",
+        "route": "/src-components-introduction",
+        "name": "Introduction",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "about-waho-portal",
+            "depth": 1,
+            "value": "About WAHO PORTAL"
+          },
+          {
+            "slug": "objective",
+            "depth": 2,
+            "value": "Objective"
+          },
+          {
+            "slug": "benefits",
+            "depth": 2,
+            "value": "Benefits"
+          }
+        ]
+      }
+    },
+    {
+      "key": "src/components/role.mdx",
+      "value": {
+        "title": "Launching",
+        "id": "22eedd5c12263f9806c464c46f841eb8",
+        "filepath": "src/components/role.mdx",
+        "fullpath": "C:\\Users\\cazunna\\Desktop\\meand you\\src\\components\\role.mdx",
+        "link": "",
+        "hidden": false,
+        "slug": "src-components-role",
+        "route": "/src-components-role",
+        "name": "Role",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "launching-waho-solution",
+            "depth": 1,
+            "value": "Launching WAHO Solution"
+          }
+        ]
+      }
+    }
+  ],
+  "props": []
+}

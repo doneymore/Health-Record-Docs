@@ -1,0 +1,24 @@
+{
+  "name": "heath-record-documentaion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docz": "docz dev",
+    "docz:build": "docz build",
+    "docz:serve": "docz build && docz serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "docz": "^2.4.0"
+  },
+  "dependencies": {
+    "@mdx-js/mdx": "^1.6.22",
+    "@mdx-js/react": "^1.6.22",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "yoga-layout-prebuilt": "^1.10.0"
+  }
+}
